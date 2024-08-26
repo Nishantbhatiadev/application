@@ -1,0 +1,88 @@
+body {
+  background-color:rgb(27, 18, 46); 
+  background-image: url("../public/media/rr.png");
+  background-size: 100%;
+  color:black;
+}
+
+.Container {
+  border: 2px solid black;
+  height: 610px;
+  width: 400px;
+  border-radius: 10px;
+  box-shadow: 3px 4px 5px  rgb(140, 138, 138);
+  border:  3px solid rgb(60, 58, 58);
+  position: relative;
+  top: 50px;
+  left: 565px;
+}
+
+img {
+  width: 350px;
+  border-radius: 8px;
+  margin: 22px;
+}
+
+
+
+#btn-1 {
+  width: 300px;
+  margin-left: 45px;;
+} 
+
+#aa {
+  padding: 10px;
+  margin: 20px;
+  margin-left: 72px;
+  background-color: #e1e3df;
+  border: 2px solid black;
+  border-radius: 5px;
+ }
+
+
+#tt{
+  margin-left: 65px;
+}
+
+#aa{
+  width:330px;
+  margin-left: 33px;
+}
+
+#dd{
+  margin-left: 80px;
+}
+
+
+#temp{
+  margin-left: 80px;
+} 
+
+
+
+/* .................................................................. */
+
+/* .btn1:hover {
+  background-color: rgb(10, 48, 136);
+  font-size: large;
+  color: white;
+  
+} */
+
+#btn2 {
+  height: 50px;
+  border-radius: 20px;
+  margin: 21px;
+  margin-left: 145px;
+  color: #f7f7fe;
+  background-color: black;
+  cursor: pointer;
+} 
+
+/* #btn2:hover {
+  background-color: rgb(10, 48, 136);
+  color: rgb(247, 246, 246);
+  font-size: large;
+}  */
+
+
